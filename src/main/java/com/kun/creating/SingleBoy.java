@@ -1,4 +1,4 @@
-package com.kun.bean;
+package com.kun.creating;
 
 
 /**

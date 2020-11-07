@@ -1,6 +1,6 @@
 package com.kun;
 
-import com.kun.bean.SingleBoy;
+import com.kun.creating.SingleBoy;
 
 public class Application {
 
