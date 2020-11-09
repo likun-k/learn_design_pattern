@@ -16,7 +16,7 @@
     这些设计模式关注类和对象的组合。继承的概念被用来组合接口和定义组合对象获得新功能的方式。
     	
 ``` 
-适配器模式（Adapter Pattern）
+适配器模式（Adapter Pattern）                  2020-11-09
 桥接模式（Bridge Pattern）
 过滤器模式（Filter、Criteria Pattern）
 组合模式（Composite Pattern）
