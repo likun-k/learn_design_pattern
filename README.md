@@ -9,7 +9,7 @@
 抽象工厂（Abstract Factory Pattern）          2020-11-07
 单例模式（Singleton Pattern）                 2020-11-02
 建造者模式（Builder Pattern）                 2020-11-07
-原型模式（Prototype Pattern）                 
+原型模式（Prototype Pattern）                 2020-11-12
 ```
 
 ###### 结构型模式
