@@ -21,8 +21,8 @@
 过滤器模式（Filter Criteria Pattern）         2020-11-11
 组合模式（Composite Pattern）                 2020-11-13
 装饰器模式（Decorator Pattern）               2020-11-13
-外观模式（Facade Pattern）
-享元模式（Flyweight Pattern）
+外观模式（Facade Pattern）                    2020-11-16
+享元模式（Flyweight Pattern）                 
 代理模式（Proxy Pattern）
 ``` 
 
