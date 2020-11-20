@@ -31,7 +31,7 @@
     
 ``` 
 责任链模式（Chain of Responsibility Pattern）  2020-11-18
-命令模式（Command Pattern）                   
+命令模式（Command Pattern）                    2020-11-20
 解释器模式（Interpreter Pattern）
 迭代器模式（Iterator Pattern）
 中介者模式（Mediator Pattern）
