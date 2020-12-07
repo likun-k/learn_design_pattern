@@ -37,7 +37,7 @@
 中介者模式（Mediator Pattern）                 2020-12-01
 备忘录模式（Memento Pattern）                  2020-12-02
 观察者模式（Observer Pattern）                 2020-11-23
-状态模式（State Pattern）                      
+状态模式（State Pattern）                      2020-12-07
 空对象模式（Null Object Pattern）              2020-12-04
 策略模式（Strategy Pattern）                   2020-12-03
 模板模式（Template Pattern）                   2020-11-19
